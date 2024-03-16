@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/srk_portfolio/static/css/main.a27bf24a.css",
+    "main.js": "/srk_portfolio/static/js/main.eb5297a5.js",
+    "static/media/sample.png": "/srk_portfolio/static/media/sample.ff829795bec0d6e4c3bd.png",
+    "static/media/rakesh.resume.pdf": "/srk_portfolio/static/media/rakesh.resume.a0e94c63e0acf4c52bb8.pdf",
+    "static/media/rakeshportfolio.png": "/srk_portfolio/static/media/rakeshportfolio.b42c8f95e2d2c84292b0.png",
+    "static/media/nodejs.png": "/srk_portfolio/static/media/nodejs.d980d9636ace07ad3dde.png",
+    "static/media/react.png": "/srk_portfolio/static/media/react.06f94023e891cdfaa3ef.png",
+    "static/media/css.png": "/srk_portfolio/static/media/css.bee63b9e863f48d93bda.png",
+    "static/media/javascript.png": "/srk_portfolio/static/media/javascript.57f1722aa0d5af76c735.png",
+    "static/media/mysql.png": "/srk_portfolio/static/media/mysql.17ec01314179e9a8ab58.png",
+    "index.html": "/srk_portfolio/index.html",
+    "main.a27bf24a.css.map": "/srk_portfolio/static/css/main.a27bf24a.css.map",
+    "main.eb5297a5.js.map": "/srk_portfolio/static/js/main.eb5297a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a27bf24a.css",
+    "static/js/main.eb5297a5.js"
+  ]
+}
