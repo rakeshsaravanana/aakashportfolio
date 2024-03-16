@@ -58,7 +58,7 @@ body{
 }
 @media all and (max-width:435px){
     .portfolio-container{
-        margin:0 0.3rem;
+        margin:0 0.01rem;
     }
 }
 @media all and (max-width:414px){
