@@ -121,7 +121,9 @@ body{
     }
 }
 @media all and (max-width:392px){
+    
     .page{
-        padding:3 2.5rem;
+        margin: 0 2rem;
+        padding:2 0.5rem;
     }
 }
