@@ -21,7 +21,7 @@
 }
 body{
   
-    font-family:cursive;
+    font-family:Bwnistagrot bd,sans-serif;
 }
 .contact-container{
     display: flex;
@@ -109,9 +109,19 @@ body{
         margin: 2.5rem auto;
     }
 }
+
+@media all and (max-width:435px){
+    .page{
+        border-radius: 15%;
+        padding:4.8rem;
+        margin-left: -0.5rem;
+    }
+    .form{
+        padding: 1.5rem;
+    }
+}
 @media all and (max-width:392px){
     .page{
         padding:3 2.5rem;
-        
     }
 }

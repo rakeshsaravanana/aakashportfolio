@@ -21,7 +21,7 @@
 }
 body{
   
-    font-family:cursive;
+    font-family:Bwnistagrot bd,sans-serif;
 }
 nav{
     display: flex;
@@ -47,7 +47,7 @@ nav{
     display: flex;
     flex: 1;
     list-style: none;
-   
+    justify-content: center;
 }
 li .icon{
     text-decoration: none;
@@ -101,7 +101,7 @@ li .icon{
         /* z-index: 100; */
         align-items: center;
         justify-content:center;
-        height:min-content;
+        height:max-content;
         width: 100vw;
         padding-top: 1rem;
         padding-bottom: 60px;

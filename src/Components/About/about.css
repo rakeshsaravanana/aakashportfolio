@@ -12,6 +12,10 @@
     --red:#e0284c;
     --black:#000000;
 }
+body{
+  
+    font-family:Bwnistagrot bd,sans-serif;
+}
 .about-container{
     background-color: var(--yellowgreen);
     display: flex;

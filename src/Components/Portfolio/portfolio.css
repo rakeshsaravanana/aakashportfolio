@@ -21,7 +21,7 @@
 }
 body{
   
-    font-family:cursive;
+    font-family:Bwnistagrot bd,sans-serif;
 }
 .portfolio-container{
     
@@ -58,7 +58,17 @@ body{
 }
 @media all and (max-width:435px){
     .portfolio-container{
-        margin:0 0.01rem;
+        margin:0 0.1rem;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .para{
+        padding:1rem 0.5rem;
+    }
+    .port-content{
+        display: flex;
+        flex-wrap: wrap;
+        flex-grow: 1;
     }
 }
 @media all and (max-width:414px){
@@ -69,8 +79,27 @@ body{
 }
 @media all and (max-width:392px){
     .portfolio-container{
-        margin:0 0.01rem;
+        margin:0 0.001rem;
+        display: flex;
+        flex-wrap: wrap;
     }
+    .para{
+        padding: 1rem 0.03rem 1rem 0.03rem;
+        font-size: 0.9rem;
+    }
+
+}
+@media all and (max-width:380px){
+    .portfolio-container{
+        margin:0 0.001rem;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .para{
+        padding:0.03rem;
+        font-size: 0.9rem;
+    }
+
 }
 @media all and (max-width:282px){
     .para{

@@ -12,6 +12,10 @@
     --red:#e0284c;
     --black:#000000;
 }
+body{
+  
+    font-family:Bwnistagrot bd,sans-serif;
+}
 .work-container{
     min-width: 100vw;
     margin: 4rem 0;
@@ -74,7 +78,12 @@
     }
   
 }
-
+@media all and (max-width:414px){
+    .skill-logos{
+        width: 43px;
+        height: 43px;
+    }
+}
 
 @media all and (max-width:392px){
     .skill-logos{

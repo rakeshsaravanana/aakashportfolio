@@ -13,7 +13,8 @@
     --black:#000000;
 }
 body{
-    font-family:cursive;
+  
+    font-family:Bwnistagrot bd,sans-serif;
 }
 .container{
     display:flex;
@@ -97,6 +98,13 @@ body{
         box-sizing: border-box;
         overflow-x: hidden;
     }
+    .imgdiv{
+        margin-top: 5rem;
+    }
+
+    .container{
+        height: fit-content;
+    }
     .home-contents{
         font-size: 1rem;
         bottom: 40%;
@@ -108,7 +116,7 @@ body{
 }
 @media all and (max-width:380px){
     .home-contents{
-        bottom: 35%;
+        bottom: 20%;
     }
     .name{
         font-size: 1.5rem;
