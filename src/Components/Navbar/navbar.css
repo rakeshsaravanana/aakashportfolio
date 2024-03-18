@@ -31,7 +31,7 @@ nav{
     background-color: black;
     position: sticky;
     top: 0px;
-    border-bottom:var(--yellowgreen)  solid 1px;
+    border-bottom:var(--yellowgreen)  solid 0.3px;
     z-index: 9999;
 }
 

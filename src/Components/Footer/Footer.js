@@ -1,8 +1,8 @@
 import React from 'react';
 import './footer.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {faInstagram,faGoogle} from '@fortawesome/free-brands-svg-icons';
-
+import {faInstagram} from '@fortawesome/free-brands-svg-icons';
+import {faGithub} from "@fortawesome/free-brands-svg-icons"
 const Footer = () => {
   return (
     <div className='footer'>
@@ -16,7 +16,7 @@ const Footer = () => {
         <div className='socialmedia'>
           <h2 className='queries'>Get in touch</h2>
           <a href='https://www.instagram.com/rakesh_sarav27/'><FontAwesomeIcon icon={faInstagram} className='media instagram' /> </a>
-          <a href='#home'  className='emailid'><FontAwesomeIcon icon={faGoogle} className='media gmail'/>rakeshofficial2707@gmail.com</a>
+          <a href='https://github.com/rakeshsaravanana'  className='emailid'><FontAwesomeIcon icon={faGithub} className='media gmail'/></a>
         </div>
 
      </div>

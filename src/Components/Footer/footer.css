@@ -148,9 +148,9 @@ body{
     .socialmedia{
         margin: 1rem;
     }
-    .gmail{
+    /* .gmail{
         display: none;
-    }
+    } */
     .footer-links{
        margin-top: 1rem;
        display: flex;

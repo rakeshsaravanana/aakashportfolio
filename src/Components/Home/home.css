@@ -43,6 +43,9 @@ body{
     animation-duration: 3s;
     animation-name: slidein;
 }
+.quotes{
+    color: var(--yellowgreen);
+}
 @keyframes slidein {
     from {
       margin-left: 100%;
