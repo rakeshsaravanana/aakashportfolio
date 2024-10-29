@@ -5,7 +5,8 @@ const Images={
     react:require("../../../src/assets/react.png"),
     nodejs:require("../../../src/assets/nodejs.png"),
     python:require("../../../src/assets/python.png"),
-    mysql:require("../../../src/assets/mysql.png")
+    mysql:require("../../../src/assets/mysql.png"),
+    Csharp:require("../../../src/assets/Csharp.png")
 
 }
 export default Images;

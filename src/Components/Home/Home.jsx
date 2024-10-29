@@ -15,9 +15,9 @@ const Home = () => {
 
         <div className="home-contents">
             <div className='contents'>
-            <h1 className='name'>RAKESH .</h1>
+            <h1 className='name'>RAKESH <span className='loader'>. . .</span></h1>
             {/* <h2 className='surname'>SARAVANAN .</h2> */}
-            <h3 className='designation'> <span className='pipe'>|</span> Enthusiastic Web Developer </h3>
+            <h3 className='designation'> <span className='pipe'>|</span> Enthusiastic Software Engineer </h3>
             <p className='quotes'>“I thrive in diverse environments, continually learning and adapting to new challenges with a growth mindset."”</p>
             </div>
         </div>

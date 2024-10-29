@@ -76,6 +76,10 @@ body{
     .myskills{
         margin-left: -1rem;
     }
+    .skill-logos{
+        width: 43px;
+        height: 43px;
+    }
   
 }
 @media all and (max-width:414px){
